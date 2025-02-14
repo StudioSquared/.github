@@ -24,4 +24,4 @@ for any enquiries, issues, refunds, or otherwise: contact@studiosquared.co.uk
 
 
 
-[![Stay connected]](https://www.linkedin.com/company/studiosquared)
+[Stay connected](https://www.linkedin.com/company/studiosquared)
